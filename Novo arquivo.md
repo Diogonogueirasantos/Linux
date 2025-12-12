@@ -1,6 +1,4 @@
-# Linux
-
-
+# Linux 
 
 Seja bem vindo(a)! 
 
